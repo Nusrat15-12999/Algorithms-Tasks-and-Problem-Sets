@@ -34,7 +34,7 @@ int main()
 
 	if (index != -1)
     {
-       printf("Found at %d Position", index);
+       printf("Found at %d Position", index+1);
     }
 	else
 		printf("Not Found");
